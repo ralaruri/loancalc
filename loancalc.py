@@ -17,8 +17,7 @@ date1 = "2016-08-19"
 date2 = "2017-01-13"
 date3 = "2017-08-18"
 date4 = "2018-01-12"
-# date5 = "2018-09-10"
-# date6 = "2018-09-10"
+
 
 # 2. add dates to a list and create an empty list
 orginaldates = [date1, date2, date3, date4]
